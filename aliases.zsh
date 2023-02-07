@@ -1,0 +1,6 @@
+alias projects='cd ~/Projects'
+alias pj='projects'
+alias u='cd ..'
+alias dcu='docker-compose-start-docker.sh up'
+alias dce='docker-compose-exec-first-container.rb'
+alias dcr='docker-compose-exec-ruby-container.rb'
